@@ -3,6 +3,8 @@
 ### Built With
 
 (https://www.reactj.org) "React Homepage") - [Reactjs]
+[link itse]: 
+[link text itself]: http://www.reddit.com
 - Reactjs
 - Bootstrap
 - Pure CSS
