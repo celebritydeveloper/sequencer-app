@@ -6,8 +6,6 @@ Application is meant to run a sequences e.g (Fibonacci Sequence, Factorial Seque
 
 - Reactjs
 - Bootstrap
-- Pure CSS
-- JavaScript
 
 ### Demo
 Use this link to see demo https://iamessien.github.io/sequencer-app/
