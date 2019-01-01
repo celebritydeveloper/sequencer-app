@@ -1,7 +1,15 @@
 # sequencer-app
 
-# Technology
-### This web App was built using Reactjs, Bootstrap, Pure CSS and JavaScript
+### Built With
 
-# Demo
-### Use this link to see demo https://iamessien.github.io/sequencer-app/
+(https://www.reactj.org) "React Homepage") - [Reactjs]
+- Reactjs
+- Bootstrap
+- Pure CSS
+- JavaScript
+
+### Demo
+Use this link to see demo https://iamessien.github.io/sequencer-app/
+
+#
+In the cause of building this app a time tracking tool was used to track the timing of the project.
