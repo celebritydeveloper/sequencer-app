@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/react-gh-pages/static/media/glyphicons-halflings-regular.68ed1dac.woff"
   },
   {
-    "revision": "ff423a4251cf2986555523dfe315c42b",
-    "url": "/react-gh-pages/static/media/glyphicons-halflings-regular.ff423a42.svg"
-  },
-  {
     "revision": "e49d52e74b7689a0727def99da31f3eb",
     "url": "/react-gh-pages/static/media/glyphicons-halflings-regular.e49d52e7.ttf"
+  },
+  {
+    "revision": "ff423a4251cf2986555523dfe315c42b",
+    "url": "/react-gh-pages/static/media/glyphicons-halflings-regular.ff423a42.svg"
   },
   {
     "revision": "b185066a39fd4d19e78c2d69d8cedfef",
