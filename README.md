@@ -8,7 +8,7 @@ Application is meant to run a sequences e.g (Fibonacci Sequence, Factorial Seque
 - Bootstrap
 
 ### Demo
-Use this link to see demo https://iamessien.github.io/sequencer-app/
+Use this link to see demo https://theboringdude.github.io/sequencer-app/
 
 
 ### Tools
